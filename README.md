@@ -1,4 +1,4 @@
-# Customer-propensity-to-purchase-data
+# تحلیل وبسایت فروشگاهی
 Analyzing data from one day of a ecommerce website 
 ### Data from kaggle: https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data
 
